@@ -18,7 +18,7 @@ Part 2 is design-focused. Students do **not** open a build tool, write Scratch s
 
 ## Teacher Guide first
 
-`ChattingwithAI_TeacherGuide_FULL_PART2.docx` is the main implementation document. All other files support the Teacher Guide and should be used only when needed.
+`ChattingwithAI_TeacherGuide_FULL_PART2_LITE_FINAL.docx` is the main implementation document. All other files support the Teacher Guide and should be used only when needed.
 
 The shorter Teacher Walkthrough is an optional in-class reference. It does not replace the Teacher Guide.
 
@@ -74,7 +74,7 @@ If one precise issue remains, the group marks **Revise first** and repairs that 
 
 | Resource | File | Purpose |
 |---|---|---|
-| Teacher Guide | `ChattingwithAI_TeacherGuide_FULL_PART2.docx` | Main pedagogical and implementation guide for Part 2. |
+| Teacher Guide (Lite) | `ChattingwithAI_TeacherGuide_FULL_PART2_LITE_FINAL.docx` | Main pedagogical and implementation guide for Part 2. |
 | Teacher Walkthrough | `material_kit/teacher_facing/00_Teacher_Walkthrough_PART2.docx` | Optional quick reference for the recommended 2 × 30-minute flow and the 45-minute compact route. |
 | Part 2 Chatbot Logic Design Worksheet | `material_kit/student_common/01_PART2_Chatbot_Logic_Design_Worksheet.docx` | Canonical student record and Part 3 Build Brief. Pages 1–4 are required; page 5 is optional GenAI reflection. |
 | Safe Topic and Scope Card | `material_kit/support/02_Safe_Topic_and_Scope_Card.docx` | Optional support for choosing or narrowing a safe, manageable topic. |

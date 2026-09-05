@@ -21,7 +21,7 @@ Part 3 does **not** include proper peer testing, quality ratings, evidence-based
 
 ## Authoritative file
 
-`ChattingwithAI_TeacherGuide_FULL_PART3.docx` is the main implementation document. All files in `material_kit/` support the Teacher Guide and should be opened only when relevant to the selected route.
+`ChattingwithAI_TeacherGuide_FULL_PART3_LITE_FINAL.docx` is the main implementation document. All files in `material_kit/` support the Teacher Guide and should be opened only when relevant to the selected route.
 
 
 ## Optional teacher quick reference

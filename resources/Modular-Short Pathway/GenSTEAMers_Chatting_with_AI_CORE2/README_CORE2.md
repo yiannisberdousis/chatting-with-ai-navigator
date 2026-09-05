@@ -81,7 +81,7 @@ GenSTEAMers_Chatting_with_AI_CORE2_Release/
 
 | Resource | File | Purpose |
 |---|---|---|
-| Teacher Guide | `ChattingwithAI_TeacherGuide_Modular_CORE2.docx` | Full pedagogical and implementation guide for CORE 2, using the same visual template and structure as CORE 1. |
+| Teacher Guide (Lite) | `ChattingwithAI_TeacherGuide_Modular_CORE2_LITE_v2.docx` | Main pedagogical and implementation guide for CORE 2, using the same visual template and structure as CORE 1. |
 | Teacher Walkthrough | `material_kit/teacher_facing/00_Teacher_Walkthrough_90min.docx` | Short classroom flow, readiness checks, protected minimum and evidence package. |
 | Option A Scratch Implementation Guide | `material_kit/implementation_pack/01_Option_A_Scratch_Implementation_Guide.docx` | Complete Scratch implementation, screenshots, troubleshooting, testing and evidence guidance. |
 | Option B GenAI Setup Guide | `material_kit/implementation_pack/02_Option_B_GenAI_Setup_Guide_PRELIMINARY.docx` | Work-in-progress Option B logic and preliminary Prompt Capsule implementation model. |
@@ -101,7 +101,7 @@ GenSTEAMers_Chatting_with_AI_CORE2_Release/
 
 Use:
 
-- `ChattingwithAI_TeacherGuide_Modular_CORE2.docx` or the shorter `00_Teacher_Walkthrough_90min.docx`;
+- `ChattingwithAI_TeacherGuide_Modular_CORE2_LITE_v2.docx` or the shorter `00_Teacher_Walkthrough_90min.docx`;
 - `04_CORE2_Student_Design_Worksheet.docx`;
 - `01_Option_A_Scratch_Implementation_Guide.docx`;
 - `07_Option_A_Scratch_Build_Card.docx`;

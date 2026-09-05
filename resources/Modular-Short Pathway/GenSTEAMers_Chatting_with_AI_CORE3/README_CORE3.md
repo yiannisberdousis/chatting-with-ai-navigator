@@ -71,7 +71,7 @@ The numbering follows the CORE 2 architecture. Number **02** is intentionally re
 
 | Resource | File | Purpose |
 |---|---|---|
-| Teacher Guide | `ChattingwithAI_TeacherGuide_Modular_CORE3.docx` | Full pedagogical and implementation guide for CORE 3, using the same visual template and section structure as CORE 2 and ending at Teacher Note(s). |
+| Teacher Guide (Lite) | `ChattingwithAI_TeacherGuide_Modular_CORE3_LITE_v2.docx` | Main pedagogical and implementation guide for CORE 3, using the same visual template and section structure as CORE 2 and ending at Teacher Note(s). |
 | CORE 3 Teacher Quick Walkthrough | `material_kit/teacher_facing/00_CORE3_Teacher_Quick_Walkthrough_45min.docx` | Short classroom flow, readiness checks, protected minimum, decision rule and evidence collection. |
 | CORE 3 Option A Scratch Peer Testing and Revision Guide | `material_kit/implementation_pack/01_CORE3_Option_A_Scratch_Peer_Testing_and_Revision_Guide.docx` | Complete Scratch station-exchange, peer-testing, Improve/Keep, verification, troubleshooting and evidence guidance. |
 | CORE 3 Completed Revision Decision Examples | `material_kit/implementation_pack/03_CORE3_Completed_Revision_Decision_Examples.docx` | Completed Scratch examples showing both valid paths: Improve plus same-input re-test, and Keep as designed plus confirmation test. |
@@ -85,7 +85,7 @@ The numbering follows the CORE 2 architecture. Number **02** is intentionally re
 
 Use:
 
-- `ChattingwithAI_TeacherGuide_Modular_CORE3.docx` or the shorter `00_CORE3_Teacher_Quick_Walkthrough_45min.docx`;
+- `ChattingwithAI_TeacherGuide_Modular_CORE3_LITE_v2.docx` or the shorter `00_CORE3_Teacher_Quick_Walkthrough_45min.docx`;
 - `04_CORE3_Test_Decide_Confirm_Card.docx`;
 - `05_CORE2_CORE3_Handover_Card.docx`;
 - `01_CORE3_Option_A_Scratch_Peer_Testing_and_Revision_Guide.docx`;

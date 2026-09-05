@@ -46,7 +46,7 @@ GenSTEAMers_Chatting_with_AI_CORE1_Release/
 
 | Resource | File | Purpose |
 |---|---|---|
-| Teacher Guide | `ChattingwithAI_TeacherGuide_Modular_CORE1.docx` | Full pedagogical and implementation guide for CORE 1. |
+| Teacher Guide (Lite) | `ChattingwithAI_TeacherGuide_Modular_CORE1_LITE_v2.docx` | Main pedagogical and implementation guide for CORE 1. |
 | Teacher Route Selection Sheet | `material_kit/teacher_facing/00_Teacher_Route_Selection_Sheet.docx` | Choose Route A, B or C before the lesson. |
 | Teacher Walkthrough | `material_kit/teacher_facing/01_Teacher_Walkthrough_45min.docx` | Follow the focused classroom flow and timing contingencies. |
 | Whole-Class Debrief Board | `material_kit/teacher_facing/02_Whole_Class_Debrief_Board.docx` | Turn findings into specific CORE 2 design principles. |
@@ -61,7 +61,7 @@ GenSTEAMers_Chatting_with_AI_CORE1_Release/
 
 Use:
 
-- `ChattingwithAI_TeacherGuide_Modular_CORE1.docx` or the shorter `01_Teacher_Walkthrough_45min.docx`;
+- `ChattingwithAI_TeacherGuide_Modular_CORE1_LITE_v2.docx` or the shorter `01_Teacher_Walkthrough_45min.docx`;
 - pages 1–4 of `03_CORE1_Student_Worksheet.docx`;
 - one route-specific file: Route A, Route B or Route C.
 

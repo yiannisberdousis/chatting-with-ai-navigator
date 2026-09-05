@@ -15,7 +15,7 @@ Part 4 ends with an evidence-based decision. It does not include prototype revis
 
 ## Authoritative file
 
-`ChattingwithAI_TeacherGuide_FULL_PART4.docx` is the main implementation document. All files in `material_kit/` support named steps in the Teacher Guide.
+`ChattingwithAI_TeacherGuide_FULL_PART4_LITE_FINAL.docx` is the main implementation document. All files in `material_kit/` support named steps in the Teacher Guide.
 
 ## Optional teacher quick reference
 

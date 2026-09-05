@@ -15,7 +15,7 @@ Students evaluate chatbot responses before designing chatbot logic in Part 2. Th
 
 ## Teacher Guide first
 
-`ChattingwithAI_TeacherGuide_FULL_PART1.docx` is the main implementation document. All other files support the Teacher Guide and should be selected only when needed.
+`ChattingwithAI_TeacherGuide_FULL_PART1_LITE_FINAL.docx` is the main implementation document. All other files support the Teacher Guide and should be selected only when needed.
 
 The shorter Teacher Walkthrough is an optional in-class reference. It does not replace the Teacher Guide.
 
@@ -56,7 +56,7 @@ If time is tight, keep the second response evaluation brief and protect the clos
 
 | Resource | File | Purpose |
 |---|---|---|
-| Teacher Guide | `ChattingwithAI_TeacherGuide_FULL_PART1.docx` | Main pedagogical and implementation guide for Part 1. |
+| Teacher Guide (Lite) | `ChattingwithAI_TeacherGuide_FULL_PART1_LITE_FINAL.docx` | Main pedagogical and implementation guide for Part 1. |
 | Teacher Route Selection Sheet | `material_kit/teacher_facing/00_Teacher_Route_Selection_Sheet.docx` | Choose Route A, B, or C before the lesson. |
 | Teacher Walkthrough | `material_kit/teacher_facing/01_Teacher_Walkthrough_PART1_45min.docx` | Optional quick reference during the lesson after the Teacher Guide has been read. |
 | Whole-Class Debrief Board | `material_kit/teacher_facing/02_Whole_Class_Debrief_Board.docx` | Turn findings into specific Part 2 design principles. |

@@ -6,7 +6,7 @@ Part 5 closes the Full Pathway. Creator groups validate the Part 4 handover, con
 
 ## Start here
 
-1. Read `ChattingwithAI_TeacherGuide_FULL_PART5.docx`.
+1. Read `ChattingwithAI_TeacherGuide_FULL_PART5_LITE_FINAL.docx`.
 2. Confirm that every group has the tested prototype, the Part 3 Test Brief and the completed Part 4 Independent Test and Review Record.
 3. Give each creator group one copy of `material_kit/student_common/01_PART5_Refinement_Verification_and_Completion_Record.docx`.
 4. Use only the relevant route section in `material_kit/support/02_PART5_Route_Refinement_and_Save_Guide.docx`.
